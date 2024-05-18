@@ -1,2 +1,1 @@
-# Music-Player
-A go with the way project for one of my favorite artist Lana Del Rey songs.
+[*click here to review the project*](https://mohitxd-fr.github.io/Music-Player/)
